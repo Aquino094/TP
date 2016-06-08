@@ -1,0 +1,2 @@
+Realizar un programa que realiza una susecion de una secuencia de numero hasta un millon.
+cada nuevo numero se calculara realizando la suma de los dos ateriores
