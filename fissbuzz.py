@@ -25,4 +25,4 @@ while (count < 101):
     #mostrar el numero e incrementar el valor del numero
     else:
         print count
-        count = count + 1
+        count = count + 1 
